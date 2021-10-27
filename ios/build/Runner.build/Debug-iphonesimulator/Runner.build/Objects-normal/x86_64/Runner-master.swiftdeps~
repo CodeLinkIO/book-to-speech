@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "771ba61dc8176d836ef38f77c180336b7d6069f9022f0feda71b83753d684aa9"
+build_start_time: [1635098332, 555932044]
+build_end_time: [1635098332, 636249065]
+inputs:
+  "/Users/tinh/Projects/book-to-speech/booktospeech/ios/Runner/AppDelegate.swift": !private [1626554082, 215125560]
